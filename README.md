@@ -169,6 +169,8 @@ git push origin main
 
 ---
 
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia incluida en el archivo `LICENSE`.
+ ## 📄 Licencia
+ 
+ Este proyecto se distribuye bajo la licencia incluida en el archivo `LICENSE`.
++
++© 2025 gesto-dashboard — Luis Ruiz, Victorino Triana, Jonathan Olvera.
