@@ -160,7 +160,7 @@ git push origin main
 - [x] Backend Django con DRF configurado
 - [x] CORS habilitado para `localhost:5173`
 - [x] Frontend React consumiendo endpoint de prueba
-- [ ] Modelo `Gesto` + endpoints CRUD
+- [x] Modelo `Gesto` + endpoints CRUD
 - [ ] Componentes de listado y creación de gestos
 - [ ] Dashboard de WIP en tiempo real
 - [ ] Autenticación de usuarios (opcional)
